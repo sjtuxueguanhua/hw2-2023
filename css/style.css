@@ -47,8 +47,8 @@ div.introduction{
     background-color: #ff0000;
     text-align: right;
     margin-left: 50px;
-    border-bottom: 2px  ;
-    border-left: 5px  ;
+    border-bottom: 2px  solid;
+    border-left: 5px  solid;
     border-right: none;
     border-top: none;
 }
@@ -56,8 +56,8 @@ div.blue{
     background-color: #0000ff;
     text-align: left;
     margin-right: 50px;
-    border-right: 5px  ;
-    border-top: 2px  ;
+    border-right: 5px solid ;
+    border-top: 2px  solid;
     border-bottom: none;
     border-left: none;
 }
@@ -68,8 +68,8 @@ div.yellow{
     background-color: #ffff00;
     text-align: right;
     margin-left: 50px;
-    border-left: 5px  ;
-    border-bottom: 2px  ;
+    border-left: 5px  solid;
+    border-bottom: 2px solid  ;
     border-right: none;
     border-top: none;
 }
